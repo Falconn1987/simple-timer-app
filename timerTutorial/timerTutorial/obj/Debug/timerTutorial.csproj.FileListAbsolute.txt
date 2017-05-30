@@ -1,0 +1,10 @@
+c:\users\swdev05\documents\visual studio 2015\Projects\timerTutorial\timerTutorial\bin\Debug\timerTutorial.exe.config
+c:\users\swdev05\documents\visual studio 2015\Projects\timerTutorial\timerTutorial\bin\Debug\timerTutorial.exe
+c:\users\swdev05\documents\visual studio 2015\Projects\timerTutorial\timerTutorial\bin\Debug\timerTutorial.pdb
+c:\users\swdev05\documents\visual studio 2015\Projects\timerTutorial\timerTutorial\obj\Debug\timerTutorial.csprojResolveAssemblyReference.cache
+c:\users\swdev05\documents\visual studio 2015\Projects\timerTutorial\timerTutorial\obj\Debug\timerTutorial.Form1.resources
+c:\users\swdev05\documents\visual studio 2015\Projects\timerTutorial\timerTutorial\obj\Debug\timerTutorial.Properties.Resources.resources
+c:\users\swdev05\documents\visual studio 2015\Projects\timerTutorial\timerTutorial\obj\Debug\timerTutorial.csproj.GenerateResource.Cache
+c:\users\swdev05\documents\visual studio 2015\Projects\timerTutorial\timerTutorial\obj\Debug\timerTutorial.exe
+c:\users\swdev05\documents\visual studio 2015\Projects\timerTutorial\timerTutorial\obj\Debug\timerTutorial.pdb
+c:\users\swdev05\documents\visual studio 2015\Projects\timerTutorial\timerTutorial\obj\Debug\timerTutorial.Form2.resources
